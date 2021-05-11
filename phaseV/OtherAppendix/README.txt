@@ -1,0 +1,4 @@
+Data Cleaning for Other Appendix has been merged to the same notebook redditGME
+
+
+The purpose of our additional research was to determine the degree of influence that r/wallstreetbets had upon GME's increasing stock price in this time frame. To answer this question, we examined the frequency of postings made on r/wallstreetbets during 30 minute intervals and their correlation to corresponding 30 minute intervals of GME stock data. We trained two linear models that predicted the closing price given the frequency of all Reddit posts and the frequency of only Reddit posts deemed relevant after a simple Boolean search of post titles. Ultimately, we found no relationship between the frequency of Reddit posts on r/wallstreetbets and GME stock price.
